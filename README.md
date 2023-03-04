@@ -18,8 +18,8 @@ Il repository è suddiviso in vari capitoli, ciascuno che verte su un aspetto de
 5) Multiprocessori (da definire)
 
 ## Fonte Principale
-- Titolo: `Computer Organization and Design RISC-5 edition`.
-- Autori: `David A. Patterson. University of California, Berkeley`.
+- Titolo: `Computer Organization and Design. The hardware/software interface, fifth edition`.
+- Autori: `David A. Patterson`, `John L.Hennessy`.
 
 ### Nota
 - Questo repository ha il solo scopo di presentare i vari concetti riguardanti le architetture degli elaboratori. Non si sostituisce ad un libro.
